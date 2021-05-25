@@ -3,7 +3,7 @@ About r-ccdralgorithm
 
 Home: https://github.com/itsrainingdata/ccdrAlgorithm
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ccdralgorithm-feedstock/blob/master/LICENSE.txt)
 
@@ -170,5 +170,4 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@dpryan79](https://github.com/dpryan79/)
 
