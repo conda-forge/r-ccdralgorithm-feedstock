@@ -47,7 +47,7 @@ test:
 
 about:
   home: https://github.com/itsrainingdata/ccdrAlgorithm
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Implementation of the CCDr (Concave penalized Coordinate Descent with reparametrization)
     structure learning algorithm as described in Aragam and Zhou (2015) <http://www.jmlr.org/papers/v16/aragam15a.html>.
     This is a fast, score-based method for learning Bayesian networks that uses sparse
@@ -58,4 +58,3 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - dpryan79
